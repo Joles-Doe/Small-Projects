@@ -1,0 +1,831 @@
+------------------------------------
+With company name Netminers ApS, there are 4 similarities: 
+[('Adnami ApS', 61), ('Terminus', 57), ('LiveRamp', 56), ('Internet Corporation for Assigned Names and Numbers', 55)]
+------------------------------------
+With company name DNN Corp., there are 4 similarities: 
+[('Cognitiv Corp.', 86), ('Free Stream Media Corp', 86), ('SoftBank Technology Corp.', 86), ('Atlassian Corporation plc', 68)]
+------------------------------------
+With company name Amla Commerce, there are 4 similarities: 
+[('Scala Communications, Inc.', 62), ('Walla Communication Ltd.', 62), ('ALC', 60), ('TouchCommerce, Inc', 57)]
+------------------------------------
+With company name AB Tasty, there are 4 similarities: 
+[('AB Dagens Nyheter', 86), ('Albacross Nordic AB', 86), ('BidTheatre AB', 86), ('Consult IT Nordic AB', 86)]
+------------------------------------
+With company name Amazon.com, Inc., there are 4 similarities: 
+[('4INFO, Inc.', 86), ('AdGear Technologies Inc.', 86), ('Adobe Inc.', 86), ('Altisource Solutions, Inc.', 86)]
+------------------------------------
+With company name ResponseTap Limited, there are 4 similarities: 
+[('Guardian News & Media Limited', 86), ('Limited Liability Company "Omnikanalnie tehnologii"', 86), ('Native Media Limited Liability Company', 86), ('News Limited', 86)]
+------------------------------------
+With company name FM Adserving A / S, there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('AdThink S.A.', 86), ('Gemius S.A.', 86)]
+------------------------------------
+With company name Agillic ApS, there are 4 similarities: 
+[('ALC', 60), ('Adnami ApS', 57), ('Awio Web Services LLC', 55), ('Mailjet SAS', 55)]
+------------------------------------
+With company name Plone Foundation, there are 4 similarities: 
+[('Health On the Net Foundation', 86), ('Mayo Foundation for Medical Education and Research', 86), ('OpenStreetMap Foundation', 86), ('Wikimedia Foundation, Inc.', 86)]
+------------------------------------
+With company name CEWE Stiftung & Co. KGaA, there are 4 similarities: 
+[('Catamorphic Co.', 86), ('Hatena Co., Ltd.', 86), ('i-mobile co. LTD', 86), ('KYOCERA Communication Systems Co., Ltd.', 86)]
+------------------------------------
+With company name Addwish ApS, there are 4 similarities: 
+[('Heap', 68), ('Adnami ApS', 67), ('Add Shoppers', 61), ('Issuu ApS', 60)]
+------------------------------------
+With company name D4t4 Solutions plc, there are 4 similarities: 
+[('Digital Science Research Solutions Inc', 86), ('flexAnswer Solutions Pte Ltd', 86), ('Future Plc', 86), ('OOO "ECO PC - Complex Solutions"', 86)]
+------------------------------------
+With company name PrestaShop SA, there are 4 similarities: 
+[('Agencia EFE SA S M E', 86), ('Teads ( Luxenbourg ) SA', 86), ('ShopBack', 60), ('Criteo SA', 55)]
+------------------------------------
+With company name Boliga ApS, there are 4 similarities: 
+[('Cybot ApS', 63), ('KOL', 60), ('UOL', 60), ('Olark', 54)]
+------------------------------------
+With company name Typo3, there are 4 similarities: 
+[('Retyp LLC', 64), ('Monotype Imaging Inc.', 57), ('Swiftype, Inc.', 57), ('The Hoefler Type Foundry, Inc', 57)]
+------------------------------------
+With company name F5 Networks, Inc, there are 4 similarities: 
+[('4INFO, Inc.', 86), ('Adobe Inc.', 86), ('Altisource Solutions, Inc.', 86), ('Amazon Technologies, Inc.', 86)]
+------------------------------------
+With company name Cake Software Foundation, Inc., there are 4 similarities: 
+[('33Across, Inc.', 86), ('3Play Media, Inc', 86), ('4INFO, Inc.', 86), ('Acquia, Inc', 86)]
+------------------------------------
+With company name CherryFramework, there are 4 similarities: 
+[('Olark', 68), ('Admedo', 60), ('EQ Works', 60), ('CacheNetworks, LLC', 48)]
+------------------------------------
+With company name CodeIgniter Foundation, there are 4 similarities: 
+[('Mayo Foundation for Medical Education and Research', 86), ('OpenJS Foundation', 72), ('OpenStreetMap Foundation', 70), ('Mozilla Foundation', 67)]
+------------------------------------
+With company name igeek Ltd, there are 4 similarities: 
+[('Ably Real-time Ltd', 86), ('Avocet Systems Ltd.', 86), ('Blis Global Ltd', 86), ('Campaign Monitor Pty Ltd', 86)]
+------------------------------------
+With company name IBM Corporation, there are 4 similarities: 
+[('Atlassian Corporation plc', 86), ('Australian Broadcasting Corporation', 86), ('British Broadcasting Corporation', 86), ('Canadian Broadcasting Corporation', 86)]
+------------------------------------
+With company name Acoustic, L.P., there are 4 similarities: 
+[('Marks and Spencer P.L.C.', 86), ('NicePeopleAtWork S.L.', 86), ('SEEDTAG ADVERTISING S.L.', 86), ('Tappcelator Media S.L.', 86)]
+------------------------------------
+With company name Cybot A/S, there are 4 similarities: 
+[('Cybot ApS', 89), ('A Medium Corporation', 86), ('Agencia EFE SA S M E', 86), ('GetSocial, S.A.', 86)]
+------------------------------------
+With company name Comcast Cable Communications Management, LLC, there are 4 similarities: 
+[('HS Media LLC', 86), ('Adkernel, LLC', 86), ('AdThrive, LLC', 86), ('Awio Web Services LLC', 86)]
+------------------------------------
+With company name Criteo Corp., there are 4 similarities: 
+[('Free Stream Media Corp', 86), ('SoftBank Technology Corp.', 86), ('Criteo SA', 76), ('Cognitiv Corp.', 67)]
+------------------------------------
+With company name Cxense AS, there are 4 similarities: 
+[('My Plaza Pty Ltd t/as Pulseware', 86), ('Opera Software AS', 86), ('6 Sense Insights Inc.', 61), ('mediarithmics SAS', 60)]
+------------------------------------
+With company name DMD Marketing Corp., there are 4 similarities: 
+[('Kakao Corp.', 86), ('Zmags Corp.', 86), ('GMO AD Marketing Inc.', 74), ('4Cite Marketing', 71)]
+------------------------------------
+With company name Dynamicweb, there are 4 similarities: 
+[('Dynamic Web Source, Inc.', 81), ('DynAdmic', 78), ('Dynamic Yield', 70), ('Dynatrace LLC', 52)]
+------------------------------------
+With company name M'Labs, there are 4 similarities: 
+[('Agencia EFE SA S M E', 86), ('District M Inc.', 86), ('Salsa Labs, Inc.', 86), ('Zebrafish Labs', 86)]
+------------------------------------
+With company name Adnuntius AS, there are 4 similarities: 
+[('My Plaza Pty Ltd t/as Pulseware', 86), ('Adnami ApS', 64), ('RUN', 60), ('Adnet media', 52)]
+------------------------------------
+With company name eGain Communications Corporation, there are 4 similarities: 
+[('Entravision Communications Corporation', 89), ('A Medium Corporation', 86), ('Ephox Corporation', 86), ('Internet Corporation for Assigned Names and Numbers', 86)]
+------------------------------------
+With company name APSIS International AB, there are 4 similarities: 
+[('BidTheatre AB', 86), ('CHURCH OF SCIENTOLOGY INTERNATIONAL', 86), ('Cint AB', 86), ('Effective Measure International Pty Ltd', 86)]
+------------------------------------
+With company name Krak A / S, there are 4 similarities: 
+[('A Medium Corporation', 86), ('Agencia EFE SA S M E', 86), ('Globo Comunicacao e Participacoes S.A.', 86), ('Internet Billboard a.s.', 86)]
+------------------------------------
+With company name Packet Tide, LLC, there are 4 similarities: 
+[('Call Tracking Metrics LLC', 86), ('Deluxe Enterprise Operations, LLC', 86), ('eHealthcare Solutions, LLC', 86), ('Giphy LLC', 86)]
+------------------------------------
+With company name FDIH, there are 4 similarities: 
+[('Meredith Corporation', 68), ('Simplifi Holdings Inc.', 68), ('Thermo Fisher Scientific Inc.', 68), ('Zebrafish Labs', 68)]
+------------------------------------
+With company name Umbraco A/S, there are 4 similarities: 
+[('A Medium Corporation', 86), ('Agencia EFE SA S M E', 86), ('Globo Comunicacao e Participacoes S.A.', 86), ('Internet Billboard a.s.', 86)]
+------------------------------------
+With company name Genesys Telecommunications Laboratories, Inc., there are 4 similarities: 
+[('33Across, Inc.', 86), ('3Play Media, Inc', 86), ('4INFO, Inc.', 86), ('6 Sense Insights Inc.', 86)]
+------------------------------------
+With company name Global-e Online Ltd, there are 4 similarities: 
+[('ANIVIEW LTD', 86), ('Apester Ltd.', 86), ('AppendAd LTD', 86), ('Bitrix Ltd.', 86)]
+------------------------------------
+With company name Intrado Corporation, there are 4 similarities: 
+[('Australian Broadcasting Corporation', 86), ('British Broadcasting Corporation', 86), ('Canadian Broadcasting Corporation', 86), ('Entravision Communications Corporation', 86)]
+------------------------------------
+With company name Roku, Inc., there are 4 similarities: 
+[('3Play Media, Inc', 86), ('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86)]
+------------------------------------
+With company name Dynamicweb Software A/S, there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('AdThink S.A.', 86), ('Aurea Software', 86)]
+------------------------------------
+With company name Drupal, there are 4 similarities: 
+[('ALC', 72), ('Virtual Minds AG', 62), ('Browser Update', 60), ('Dual Technologies Services', 60)]
+------------------------------------
+With company name Habla, Inc., there are 4 similarities: 
+[('3Play Media, Inc', 86), ('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86)]
+------------------------------------
+With company name Imperva, Inc., there are 4 similarities: 
+[('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('AdGear Technologies Inc.', 86), ('Altisource Solutions, Inc.', 86)]
+------------------------------------
+With company name Go Inspire Group Limited, there are 4 similarities: 
+[('Alibaba Group', 86), ('ALTERGEO LIMITED', 86), ('CFI Group', 86), ('eyeota Limited', 86)]
+------------------------------------
+With company name Jive Software, there are 4 similarities: 
+[('Die Socialisten Social Software Development GmbH', 86), ('Functional Software, Inc.', 86), ('Public Good Software, Inc.', 86), ('Aurea Software', 74)]
+------------------------------------
+With company name Raptor Services A/S, there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('AdThink S.A.', 86), ('Department of Health and Human Services', 86)]
+------------------------------------
+With company name Batia Infotech, there are 4 similarities: 
+[('Cint AB', 61), ('PubMatic, Inc.', 59), ('Baidu, Inc.', 58), ('Exponential Interactive Inc.', 58)]
+------------------------------------
+With company name The PHP Group, there are 4 similarities: 
+[('FOCUS Online Group GmbH', 86), ('Health on the Net (HON)', 86), ('Health On the Net Foundation', 86), ('Jerusalem Post Ltd. (The Jerusalem Post)', 86)]
+------------------------------------
+With company name Open Source Matters inc, there are 4 similarities: 
+[('33Across, Inc.', 86), ('4INFO, Inc.', 86), ('Acquia, Inc', 86), ('Ada Support Inc.', 86)]
+------------------------------------
+With company name Laravel LLC, there are 4 similarities: 
+[('Awio Web Services LLC', 86), ('Beachfront Media LLC', 86), ('CacheNetworks, LLC', 86), ('Call Tracking Metrics LLC', 86)]
+------------------------------------
+With company name Khoros, LLC, there are 4 similarities: 
+[('Awio Web Services LLC', 86), ('Beachfront Media LLC', 86), ('CacheNetworks, LLC', 86), ('Call Tracking Metrics LLC', 86)]
+------------------------------------
+With company name Netop, there are 4 similarities: 
+[('Barracuda Networks Inc.', 72), ('CacheNetworks, LLC', 72), ('Glance Networks Inc', 72), ('Hola Networks Ltd.', 72)]
+------------------------------------
+With company name 23 Visual Aps, there are 4 similarities: 
+[('ALC', 68), ('Issuu ApS', 64), ('UOL', 60), ('LTD Sape', 56)]
+------------------------------------
+With company name Moodle Pty Ltd, there are 4 similarities: 
+[('Campaign Monitor Pty Ltd', 86), ('Digital Millennium Copyright Act Services Ltd.', 86), ('Effective Measure International Pty Ltd', 86), ('Everything Unlocked Ltd', 86)]
+------------------------------------
+With company name SeaChange, there are 4 similarities: 
+[('Acceptable Ads Exchange', 70), ('Bounce Exchange', 70), ('Index Exchange, Inc.', 70), ('ALC', 60)]
+------------------------------------
+With company name WPP plc, there are 4 similarities: 
+[('Atlassian Corporation plc', 86), ('ALC', 60), ('Future Plc', 57), ('Reach plc', 57)]
+------------------------------------
+With company name Open Text Corporation, there are 4 similarities: 
+[('Australian Broadcasting Corporation', 86), ('British Broadcasting Corporation', 86), ('Canadian Broadcasting Corporation', 86), ('Entravision Communications Corporation', 86)]
+------------------------------------
+With company name OpenX Limited, there are 4 similarities: 
+[('Ciliara Trading Limited', 86), ('Civic Computing Limited', 86), ('Digital Control Room Limited', 86), ('Fifty Technology Limited', 86)]
+------------------------------------
+With company name QualityUnit, there are 4 similarities: 
+[('Quality Nonsense Ltd', 67), ('ALC', 60), ('RUN', 60), ('UOL', 60)]
+------------------------------------
+With company name PhpBB3, there are 4 similarities: 
+[('Heap', 45), ('Poshibalov Evgeny Vasilyevich', 45), ('RD Gestão e Sistemas Ltda. EPP', 45), ('ShopBack', 43)]
+------------------------------------
+With company name Pulse Insights, LLC, there are 4 similarities: 
+[('HS Media LLC', 86), ('Claritas LLC', 86), ('Datonics LLC', 86), ('Deluxe Enterprise Operations, LLC', 86)]
+------------------------------------
+With company name Lightbend, Inc., there are 4 similarities: 
+[('AdGear Technologies Inc.', 86), ('Adobe Inc.', 86), ('Altisource Solutions, Inc.', 86), ('Amazon Technologies, Inc.', 86)]
+------------------------------------
+With company name qTranslate Plugin, there are 4 similarities: 
+[('RUN', 60), ('Quora', 54), ('Tealium Inc.', 54), ('Okta, Inc.', 53)]
+------------------------------------
+With company name Queue-it, there are 4 similarities: 
+[('Consult IT Nordic AB', 86), ('Read It Later, Inc', 86), ('Effective Measure International Pty Ltd', 56), ('TapInfluence Inc.', 56)]
+------------------------------------
+With company name NextRoll, Inc., there are 4 similarities: 
+[('6 Sense Insights Inc.', 86), ('AdGear Technologies Inc.', 86), ('Altisource Solutions, Inc.', 86), ('Amazon Technologies, Inc.', 86)]
+------------------------------------
+With company name Verizon Communications Inc., there are 4 similarities: 
+[('33Across, Inc.', 86), ('3Play Media, Inc', 86), ('4INFO, Inc.', 86), ('Acquia, Inc', 86)]
+------------------------------------
+With company name Sitecore A/S, there are 4 similarities: 
+[('A Medium Corporation', 86), ('Agencia EFE SA S M E', 86), ('Globo Comunicacao e Participacoes S.A.', 86), ('Internet Billboard a.s.', 86)]
+------------------------------------
+With company name Sitecore Holding II A/S, there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('AdThink S.A.', 86), ('ClearSale S.A.', 86)]
+------------------------------------
+With company name Sleeknote Aps, there are 4 similarities: 
+[('Heap', 68), ('KOL', 60), ('Cybot ApS', 55), ('Trustpilot A/S', 52)]
+------------------------------------
+With company name SnapEngage, LLC., there are 4 similarities: 
+[('Call Tracking Metrics LLC', 86), ('Deluxe Enterprise Operations, LLC', 86), ('eHealthcare Solutions, LLC', 86), ('Giphy LLC', 86)]
+------------------------------------
+With company name Fonecta Enterprise Solutions Oy, there are 4 similarities: 
+[('Coveo Solutions Inc.', 86), ('Enreach Solutions Oy', 86), ('Deluxe Enterprise Operations, LLC', 62), ('Altisource Solutions, Inc.', 59)]
+------------------------------------
+With company name Socitm Limited, there are 4 similarities: 
+[('Ciliara Trading Limited', 86), ('Civic Computing Limited', 86), ('Digital Control Room Limited', 86), ('Fifty Technology Limited', 86)]
+------------------------------------
+With company name Squiz, there are 4 similarities: 
+[('Acquia, Inc', 54), ('ContentSquare', 54), ('Disqus, Inc.', 54), ('Equifax Inc.', 54)]
+------------------------------------
+With company name Talentsoft SA, there are 4 similarities: 
+[('Agencia EFE SA S M E', 86), ('Teads ( Luxenbourg ) SA', 86), ('SalesLoft', 69), ('ALC', 60)]
+------------------------------------
+With company name Survale, there are 4 similarities: 
+[('Consumable, Inc.', 64), ('Survata, Inc.', 64), ('SurveyMonkey Inc.', 64), ('Survicate Sp. z o.o.', 64)]
+------------------------------------
+With company name Mobius Solutions, Ltd. (Optimove), there are 4 similarities: 
+[('Ably Real-time Ltd', 86), ('ANIVIEW LTD', 86), ('Apester Ltd.', 86), ('AppendAd LTD', 86)]
+------------------------------------
+With company name TikTok Inc., there are 4 similarities: 
+[('3Play Media, Inc', 86), ('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86)]
+------------------------------------
+With company name HCL Technologies Limited, there are 4 similarities: 
+[('ALTERGEO LIMITED', 86), ('eyeota Limited', 86), ('Limited Liability Company "Omnikanalnie tehnologii"', 86), ('Native Media Limited Liability Company', 86)]
+------------------------------------
+With company name Atom Insight, there are 4 similarities: 
+[('Decibel Insight Ltd', 86), ('Convert Insights Inc', 68), ('Content Insights', 64), ('6 Sense Insights Inc.', 60)]
+------------------------------------
+With company name vSpirits Technologies Ltd., there are 4 similarities: 
+[('ANIVIEW LTD', 86), ('Apester Ltd.', 86), ('AppendAd LTD', 86), ('Bitrix Ltd.', 86)]
+------------------------------------
+With company name DEFIANT INC., there are 4 similarities: 
+[('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86), ('AdGear Technologies Inc.', 86)]
+------------------------------------
+With company name AIVO, there are 4 similarities: 
+[('Adagio', 68), ('ANIVIEW LTD', 68), ('Avocet Systems Ltd.', 68), ('Awio Web Services LLC', 68)]
+------------------------------------
+With company name Lightstreamer Srl, there are 4 similarities: 
+[('Strava', 60), ('Ströer Group', 58), ('Emerse Ltd', 57), ('Elfsight', 56)]
+------------------------------------
+With company name E-Space Communication AB, there are 4 similarities: 
+[('BidTheatre AB', 86), ('Buscape Company Informacao e Tecnologia Ltda', 86), ('Cint AB', 86), ('E-Diary Pty Ltd', 86)]
+------------------------------------
+With company name Rakuten Marketing LLC, there are 4 similarities: 
+[('HS Media LLC', 86), ('Adkernel, LLC', 86), ('AdThrive, LLC', 86), ('Claritas LLC', 86)]
+------------------------------------
+With company name GoDaddy Media Temple, Inc., there are 4 similarities: 
+[('HS Media LLC', 86), ('33Across, Inc.', 86), ('3Play Media, Inc', 86), ('4INFO, Inc.', 86)]
+------------------------------------
+With company name Slashdot Media, LLC, there are 4 similarities: 
+[('HS Media LLC', 86), ('ADman Media', 86), ('Adnet media', 86), ('Claritas LLC', 86)]
+------------------------------------
+With company name Snowplow, there are 4 similarities: 
+[('Crownpeak Technology', 48), ('Mouseflow', 47), ('AdGear Technologies Inc.', 45), ('Admixer Technologies', 45)]
+------------------------------------
+With company name Salesfire Ltd, there are 4 similarities: 
+[('Campaign Monitor Pty Ltd', 86), ('Crimtan Holdings Ltd', 86), ('Digital Millennium Copyright Act Services Ltd.', 86), ('Effective Measure International Pty Ltd', 86)]
+------------------------------------
+With company name NHST Media Group, there are 4 similarities: 
+[('CFI Group', 86), ('Guardian News & Media Limited', 86), ('Liquid New Media Limited', 86), ('Media.net Advertising FZ-LLC', 86)]
+------------------------------------
+With company name Dentsu Aegis Network Group, there are 4 similarities: 
+[('Alibaba Group', 86), ('CFI Group', 86), ('KBM Group LLC', 86), ('RELX Group', 86)]
+------------------------------------
+With company name Enecto AB, there are 4 similarities: 
+[('AB Dagens Nyheter', 86), ('Albacross Nordic AB', 86), ('Consult IT Nordic AB', 86), ('Delta Projects AB', 86)]
+------------------------------------
+With company name Meta Platforms, Inc., there are 4 similarities: 
+[('4INFO, Inc.', 86), ('Acquia, Inc', 86), ('Adobe Inc.', 86), ('AdRoll, Inc.', 86)]
+------------------------------------
+With company name HYPERS, there are 4 similarities: 
+[('Add Shoppers', 60), ('Expert Systems AG', 60), ('Independent Newspapers', 60), ('LivePerson, Inc', 60)]
+------------------------------------
+With company name Make Websolutions AS, there are 4 similarities: 
+[('Highsoft AS', 86), ('My Plaza Pty Ltd t/as Pulseware', 86), ('Lotame Solutions, Inc.', 63), ('Coveo Solutions Inc.', 62)]
+------------------------------------
+With company name Peytz & Co, there are 4 similarities: 
+[('Hatena Co., Ltd.', 86), ('i-mobile co. LTD', 86), ('KYOCERA Communication Systems Co., Ltd.', 86), ('NHN Entertainment co.,ltd', 86)]
+------------------------------------
+With company name PCCW Global Limited, there are 4 similarities: 
+[('Guardian News & Media Limited', 86), ('Limited Liability Company "Omnikanalnie tehnologii"', 86), ('Native Media Limited Liability Company', 86), ('News Limited', 86)]
+------------------------------------
+With company name Parse.ly, there are 4 similarities: 
+[('Embed.ly Inc', 86), ('Parsely, Inc.', 79), ('ClearSale S.A.', 56), ('Deluxe Enterprise Operations, LLC', 56)]
+------------------------------------
+With company name Matomo, there are 4 similarities: 
+[('Smaato Inc.', 62), ('Catamorphic Co.', 60), ('Department of Information Technology of Moscow', 60), ('Informationstechnikzentrum Bund (ITZBund)', 60)]
+------------------------------------
+With company name VMware, Inc, there are 4 similarities: 
+[('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86), ('AdGear Technologies Inc.', 86)]
+------------------------------------
+With company name Visma, there are 4 similarities: 
+[('VISA INTERNATIONAL SERVICE ASSOCIATION', 76), ('Radio e Televisao Record S.A.', 72), ('Impact', 55), ('Wistia', 55)]
+------------------------------------
+With company name Bellmetric, there are 4 similarities: 
+[('Call Tracking Metrics LLC', 68), ('ESRI', 68), ('Bidtellect, Inc', 64), ('Dotmetrics', 60)]
+------------------------------------
+With company name Warner Bros. Entertainment Inc, there are 4 similarities: 
+[('33Across, Inc.', 86), ('3Play Media, Inc', 86), ('4INFO, Inc.', 86), ('6 Sense Insights Inc.', 86)]
+------------------------------------
+With company name Ströer Media Deutschland GmbH, there are 4 similarities: 
+[('HS Media LLC', 86), ('3Play Media, Inc', 86), ('ADman Media', 86), ('Adnet media', 86)]
+------------------------------------
+With company name Aura Energi, there are 4 similarities: 
+[('ESRI', 68), ('Effective Measure International Pty Ltd', 58), ('Vergic AB', 57), ('Kaltura Inc', 55)]
+------------------------------------
+With company name Bigpoint GmbH, there are 4 similarities: 
+[('Die Socialisten Social Software Development GmbH', 86), ('FOCUS Online Group GmbH', 86), ('proinity GmbH', 77), ('IPONWEB GmbH', 72)]
+------------------------------------
+With company name Diabetesforeningen, there are 4 similarities: 
+[('RUN', 60), ('Golden Bees', 55), ('LogMeIn, Inc.', 53), ('Beeswax', 51)]
+------------------------------------
+With company name Simplicity Marketing Ltd, there are 4 similarities: 
+[('4Cite Marketing', 86), ('ANIVIEW LTD', 86), ('Apester Ltd.', 86), ('AppendAd LTD', 86)]
+------------------------------------
+With company name LinkedIn Corporation, there are 4 similarities: 
+[('Australian Broadcasting Corporation', 86), ('British Broadcasting Corporation', 86), ('Canadian Broadcasting Corporation', 86), ('Entravision Communications Corporation', 86)]
+------------------------------------
+With company name Miniclip SA, there are 4 similarities: 
+[('Agencia EFE SA S M E', 86), ('Teads ( Luxenbourg ) SA', 86), ('UNIDAD EDITORIAL SA', 86), ('Snap Inc.', 60)]
+------------------------------------
+With company name Media Innovation Group, LLC, there are 4 similarities: 
+[('HS Media LLC', 86), ('3Play Media, Inc', 86), ('Adkernel, LLC', 86), ('ADman Media', 86)]
+------------------------------------
+With company name IgnitionOne, Inc., there are 4 similarities: 
+[('IgnitionOne, LLC', 88), ('4INFO, Inc.', 86), ('Adobe Inc.', 86), ('Altisource Solutions, Inc.', 86)]
+------------------------------------
+With company name Ofcom, there are 4 similarities: 
+[('Globo Comunicacao e Participacoes S.A.', 72), ('NTT DOCOMO, INC.', 72), ('KYOCERA Communication Systems Co., Ltd.', 68), ('SK Communications Co., Ltd.', 68)]
+------------------------------------
+With company name Omnicom Media Group, there are 4 similarities: 
+[('HS Media LLC', 86), ('ADman Media', 86), ('Adnet media', 86), ('CFI Group', 86)]
+------------------------------------
+With company name The Post Office, there are 4 similarities: 
+[('Health On the Net Foundation', 86), ('Jerusalem Post Ltd. (The Jerusalem Post)', 86), ('Publications Office of the EU', 86), ('The Executive Office of the President', 86)]
+------------------------------------
+With company name Saba Software Inc., there are 4 similarities: 
+[('4INFO, Inc.', 86), ('Acquia, Inc', 86), ('Adobe Inc.', 86), ('AdRoll, Inc.', 86)]
+------------------------------------
+With company name Amazon Europe Core S.a.r.l., there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('AdThink S.A.', 86), ('Bloomberg L.P.', 86)]
+------------------------------------
+With company name Smart AdServer Limited, there are 4 similarities: 
+[('eyeota Limited', 86), ('Limited Liability Company "Omnikanalnie tehnologii"', 86), ('Native Media Limited Liability Company', 86), ('News Limited', 86)]
+------------------------------------
+With company name Step Change, there are 4 similarities: 
+[('Acceptable Ads Exchange', 66), ('Index Exchange, Inc.', 66), ('Bounce Exchange', 62), ('AdGear Technologies Inc.', 58)]
+------------------------------------
+With company name FormAssembly Inc., there are 4 similarities: 
+[('4INFO, Inc.', 86), ('Adobe Inc.', 86), ('Altisource Solutions, Inc.', 86), ('Amazon Technologies, Inc.', 86)]
+------------------------------------
+With company name UserVoice Inc., there are 4 similarities: 
+[('6 Sense Insights Inc.', 86), ('AdGear Technologies Inc.', 86), ('Altisource Solutions, Inc.', 86), ('Amazon Technologies, Inc.', 86)]
+------------------------------------
+With company name Zmags Inc., there are 4 similarities: 
+[('3Play Media, Inc', 86), ('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86)]
+------------------------------------
+With company name Adot, there are 4 similarities: 
+[('AdPilot', 73), ('AddToAny', 68), ('Adform A/S', 68), ('Adobe Inc.', 68)]
+------------------------------------
+With company name IponWeb Limited., there are 4 similarities: 
+[('Ciliara Trading Limited', 86), ('Civic Computing Limited', 86), ('Digital Control Room Limited', 86), ('Fifty Technology Limited', 86)]
+------------------------------------
+With company name Swisscom AG, there are 4 similarities: 
+[('Awin AG', 86), ('Deutsche Telekom AG', 86), ('Emarsys eMarketing Systems AG', 86), ('Expert Systems AG', 86)]
+------------------------------------
+With company name Triple Lift, Inc., there are 4 similarities: 
+[('4INFO, Inc.', 86), ('Adobe Inc.', 86), ('Altisource Solutions, Inc.', 86), ('Amazon Technologies, Inc.', 86)]
+------------------------------------
+With company name Acuity Ads Inc., there are 4 similarities: 
+[('Acceptable Ads Exchange', 86), ('AdGear Technologies Inc.', 86), ('Adobe Inc.', 86), ('Altisource Solutions, Inc.', 86)]
+------------------------------------
+With company name Acxiom LLC, there are 4 similarities: 
+[('Awio Web Services LLC', 86), ('B-Analytics, LLC', 86), ('Beachfront Media LLC', 86), ('CacheNetworks, LLC', 86)]
+------------------------------------
+With company name Audigent, there are 4 similarities: 
+[('AudienceProject', 68), ('AudienceScience Inc.', 68), ('OnAudience Ltd.', 68), ('Rich Audience Technologies', 68)]
+------------------------------------
+With company name ADARA, Inc., there are 4 similarities: 
+[('3Play Media, Inc', 86), ('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86)]
+------------------------------------
+With company name Adbrain Ltd., there are 4 similarities: 
+[('Ably Real-time Ltd', 86), ('Avocet Systems Ltd.', 86), ('Campaign Monitor Pty Ltd', 86), ('Crimtan Holdings Ltd', 86)]
+------------------------------------
+With company name ADITION technologies AG, there are 4 similarities: 
+[('Awin AG', 86), ('Sportradar AG', 86), ('SwissSign AG', 86), ('Viewster AG', 86)]
+------------------------------------
+With company name Samsung Electronics (UK) Limited, there are 4 similarities: 
+[('ALTERGEO LIMITED', 86), ('eyeota Limited', 86), ('GetWebCraft Limited', 86), ('Limited Liability Company "Omnikanalnie tehnologii"', 86)]
+------------------------------------
+With company name JSC Gazprom Media Holding, there are 4 similarities: 
+[('HS Media LLC', 86), ('3Play Media, Inc', 86), ('ADman Media', 86), ('Adnet media', 86)]
+------------------------------------
+With company name ADman Interactive S.L.U., there are 4 similarities: 
+[('Adform A/S', 86), ('ADman Media', 86), ('AdThink S.A.', 86), ('Bloomberg L.P.', 86)]
+------------------------------------
+With company name WideOrbit Inc., there are 4 similarities: 
+[('6 Sense Insights Inc.', 86), ('AdGear Technologies Inc.', 86), ('Altisource Solutions, Inc.', 86), ('Amazon Technologies, Inc.', 86)]
+------------------------------------
+With company name Admixer Limited, there are 4 similarities: 
+[('Ciliara Trading Limited', 86), ('Civic Computing Limited', 86), ('Digital Control Room Limited', 86), ('Fifty Technology Limited', 86)]
+------------------------------------
+With company name CONVERGE-DIGITAL, there are 4 similarities: 
+[('Digital Advertising Consortium Inc.', 86), ('DIGITAL BUSINESS INTELLIGENCE', 86), ('Digital Control Room Limited', 86), ('Digital Millennium Copyright Act Services Ltd.', 86)]
+------------------------------------
+With company name Koninklijke KPN N.V., there are 4 similarities: 
+[('Usabilla B.V.', 86), ('KOL', 60), ('OneSignal', 50), ('Connatix', 45)]
+------------------------------------
+With company name Kiosked Ltd, there are 4 similarities: 
+[('Ably Real-time Ltd', 86), ('Avocet Systems Ltd.', 86), ('Campaign Monitor Pty Ltd', 86), ('Crimtan Holdings Ltd', 86)]
+------------------------------------
+With company name ZONER software a.s., there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('AdThink S.A.', 86), ('Die Socialisten Social Software Development GmbH', 86)]
+------------------------------------
+With company name Waydev, Inc., there are 4 similarities: 
+[('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86), ('AdGear Technologies Inc.', 86)]
+------------------------------------
+With company name Perion Network Ltd., there are 4 similarities: 
+[('ANIVIEW LTD', 86), ('Apester Ltd.', 86), ('AppendAd LTD', 86), ('Bitrix Ltd.', 86)]
+------------------------------------
+With company name Adservice A/S, there are 4 similarities: 
+[('A Medium Corporation', 86), ('Agencia EFE SA S M E', 86), ('Globo Comunicacao e Participacoes S.A.', 86), ('Internet Billboard a.s.', 86)]
+------------------------------------
+With company name Viant Technology LLC, there are 4 similarities: 
+[('HS Media LLC', 86), ('Adkernel, LLC', 86), ('AdThrive, LLC', 86), ('Claritas LLC', 86)]
+------------------------------------
+With company name CoxReps, there are 4 similarities: 
+[('Free Stream Media Corp', 66), ('SoftBank Technology Corp.', 66), ('Cognitiv Corp.', 60), ('CodePen', 57)]
+------------------------------------
+With company name ANTS, there are 4 similarities: 
+[('NTT Resonant Inc.', 74), ('alex yastrebenetsky', 68), ('CatchPoint Systems Inc', 68), ('CloudPayments LLC', 68)]
+------------------------------------
+With company name Clerk.io ApS, there are 4 similarities: 
+[('IO Technologies Inc.', 86), ('Medianova Internet Hizmetleri A.S.', 60), ('Cybot ApS', 57), ('ClearSale S.A.', 56)]
+------------------------------------
+With company name Issuu Inc., there are 4 similarities: 
+[('3Play Media, Inc', 86), ('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86)]
+------------------------------------
+With company name Aralego, there are 4 similarities: 
+[('ClearSale S.A.', 64), ('Adagio', 62), ('Kargo Global, Inc.', 62), ('Trengo', 62)]
+------------------------------------
+With company name Altinget, there are 4 similarities: 
+[('Healthline', 67), ('Health On the Net Foundation', 64), ('AT Internet', 63), ('ALC', 60)]
+------------------------------------
+With company name Vizzuality, there are 4 similarities: 
+[('Vizzit International AB', 64), ('ALC', 60), ('UOL', 60), ('ExitReality', 57)]
+------------------------------------
+With company name Digitaliseringsstyrelsen, there are 4 similarities: 
+[('ESRI', 68), ('DIGITAL BUSINESS INTELLIGENCE', 64), ('NHS Digital', 62), ('ALC', 60)]
+------------------------------------
+With company name Appier, there are 4 similarities: 
+[('AppsFlyer', 67), ('Independent Newspapers', 66), ('Add Shoppers', 60), ('AdSpirit GmbH', 60)]
+------------------------------------
+With company name Casale Media Inc., there are 4 similarities: 
+[('4INFO, Inc.', 86), ('Adobe Inc.', 86), ('Altisource Solutions, Inc.', 86), ('Amazon Technologies, Inc.', 86)]
+------------------------------------
+With company name Obvious Management Services, L.L.C, there are 4 similarities: 
+[('Awio Web Services LLC', 86), ('Bloomberg L.P.', 86), ('HELLO UMI S.L.', 86), ('iubenda s.r.l.', 86)]
+------------------------------------
+With company name Chart.dk, there are 4 similarities: 
+[('Chartbeat', 59), ('ClarityAd', 59), ('LiveChat Inc', 57), ('Beachfront Media LLC', 56)]
+------------------------------------
+With company name Deloitte Touche Tohmatsu Limited, there are 4 similarities: 
+[('ALTERGEO LIMITED', 86), ('eyeota Limited', 86), ('GetWebCraft Limited', 86), ('Limited Liability Company "Omnikanalnie tehnologii"', 86)]
+------------------------------------
+With company name Screen9 AB, there are 4 similarities: 
+[('AB Dagens Nyheter', 86), ('Albacross Nordic AB', 86), ('Consult IT Nordic AB', 86), ('Delta Projects AB', 86)]
+------------------------------------
+With company name Crimtan Group, there are 4 similarities: 
+[('Crimtan Holdings Ltd', 86), ('FOCUS Online Group GmbH', 86), ('Markit Group Limited', 86), ('The Rocket Science Group, LLC', 86)]
+------------------------------------
+With company name Central Business Register (Denmark), there are 4 similarities: 
+[('New Relic', 60), ('RawGit', 60), ('Apester Ltd.', 58), ('DIGITAL BUSINESS INTELLIGENCE', 57)]
+------------------------------------
+With company name Dable Inc., there are 4 similarities: 
+[('3Play Media, Inc', 86), ('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86)]
+------------------------------------
+With company name Equinor ASA, there are 4 similarities: 
+[('Quora', 62), ('Invoca', 60), ('EMPRESA EL MERCURIO SAP', 58), ('Internet Corporation for Assigned Names and Numbers', 58)]
+------------------------------------
+With company name Danske Spil A/S, there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('Gemius S.A.', 86), ('Globo Comunicacao e Participacoes S.A.', 86)]
+------------------------------------
+With company name Propel Media, Inc., there are 4 similarities: 
+[('4INFO, Inc.', 86), ('Acquia, Inc', 86), ('ADman Media', 86), ('Adnet media', 86)]
+------------------------------------
+With company name Switch Concepts Ltd, there are 4 similarities: 
+[('ANIVIEW LTD', 86), ('Apester Ltd.', 86), ('AppendAd LTD', 86), ('Bitrix Ltd.', 86)]
+------------------------------------
+With company name ReachMee AB, there are 4 similarities: 
+[('AB Dagens Nyheter', 86), ('Albacross Nordic AB', 86), ('Cint AB', 86), ('Consult IT Nordic AB', 86)]
+------------------------------------
+With company name Dailymotion Inc., there are 4 similarities: 
+[('4INFO, Inc.', 86), ('AdGear Technologies Inc.', 86), ('Adobe Inc.', 86), ('Altisource Solutions, Inc.', 86)]
+------------------------------------
+With company name e-Boks A/S, there are 4 similarities: 
+[('A Medium Corporation', 86), ('Agencia EFE SA S M E', 86), ('AGUSTIN EDWARDS E Y COMPANIA', 86), ('Buscape Company Informacao e Tecnologia Ltda', 86)]
+------------------------------------
+With company name Maru Group LLC, there are 4 similarities: 
+[('Awio Web Services LLC', 86), ('Call Tracking Metrics LLC', 86), ('CFI Group', 86), ('Deluxe Enterprise Operations, LLC', 86)]
+------------------------------------
+With company name Narratiive, there are 4 similarities: 
+[('Exponential Interactive Inc.', 63), ('Ravi Trivedi', 55), ('Creative Commons', 54), ('MasterCard International Incorporated', 54)]
+------------------------------------
+With company name Scribble Technologies, Inc, there are 4 similarities: 
+[('33Across, Inc.', 86), ('3Play Media, Inc', 86), ('4INFO, Inc.', 86), ('Acquia, Inc', 86)]
+------------------------------------
+With company name Livesport Media Ltd., there are 4 similarities: 
+[('HS Media LLC', 86), ('ADman Media', 86), ('Adnet media', 86), ('ANIVIEW LTD', 86)]
+------------------------------------
+With company name Cloud Technologies S.A., there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('AdThink S.A.', 86), ('ClearSale S.A.', 86)]
+------------------------------------
+With company name Thunderhead Limited, there are 4 similarities: 
+[('Guardian News & Media Limited', 86), ('Limited Liability Company "Omnikanalnie tehnologii"', 86), ('Native Media Limited Liability Company', 86), ('News Limited', 86)]
+------------------------------------
+With company name SmartResponse A / S, there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('AdThink S.A.', 86), ('Gemius S.A.', 86)]
+------------------------------------
+With company name Free Online Games, there are 4 similarities: 
+[('UNITED ONLINE VENTURES LIMITED', 86), ('INFOnline GmbH', 65), ('ESRI', 60), ('Gamned SAS', 60)]
+------------------------------------
+With company name SAP SE, there are 4 similarities: 
+[('EMPRESA EL MERCURIO SAP', 86), ('Mindscape Limited', 62), ('A.Mob SAS', 60), ('Agencia EFE SA S M E', 60)]
+------------------------------------
+With company name Giphy, Inc., there are 4 similarities: 
+[('3Play Media, Inc', 86), ('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86)]
+------------------------------------
+With company name Hurra.com, there are 4 similarities: 
+[('CreditCards.com, LLC', 86), ('Drift.com, Inc.', 86), ('Salesforce.com, Inc.', 86), ('ALC', 60)]
+------------------------------------
+With company name Yieldbot, Inc., there are 4 similarities: 
+[('YieldMo, Inc.', 88), ('6 Sense Insights Inc.', 86), ('AdGear Technologies Inc.', 86), ('Altisource Solutions, Inc.', 86)]
+------------------------------------
+With company name Infectious Media Ltd., there are 4 similarities: 
+[('HS Media LLC', 86), ('ADman Media', 86), ('Adnet media', 86), ('ANIVIEW LTD', 86)]
+------------------------------------
+With company name The Nielsen Group, there are 4 similarities: 
+[('CFI Group', 86), ('Health On the Net Foundation', 86), ('Jerusalem Post Ltd. (The Jerusalem Post)', 86), ('Publications Office of the EU', 86)]
+------------------------------------
+With company name The Kantar Group Limited, there are 4 similarities: 
+[('Alibaba Group', 86), ('ALTERGEO LIMITED', 86), ('CFI Group', 86), ('eyeota Limited', 86)]
+------------------------------------
+With company name Cognesia Ltd, there are 4 similarities: 
+[('Ably Real-time Ltd', 86), ('Avocet Systems Ltd.', 86), ('Campaign Monitor Pty Ltd', 86), ('Crimtan Holdings Ltd', 86)]
+------------------------------------
+With company name Jobindex A/S, there are 4 similarities: 
+[('A Medium Corporation', 86), ('Agencia EFE SA S M E', 86), ('Globo Comunicacao e Participacoes S.A.', 86), ('Internet Billboard a.s.', 86)]
+------------------------------------
+With company name MGH-KultuNaut ApS, there are 4 similarities: 
+[('Adnami ApS', 86), ('Cybot ApS', 86), ('Issuu ApS', 86), ('KOL', 60)]
+------------------------------------
+With company name Nexstar Digital LLC, there are 4 similarities: 
+[('HS Media LLC', 86), ('Claritas LLC', 86), ('Datonics LLC', 86), ('Deluxe Enterprise Operations, LLC', 86)]
+------------------------------------
+With company name Zeta Interactive Corp., there are 4 similarities: 
+[('Cognitiv Corp.', 86), ('Kakao Corp.', 86), ('Zeta Global', 86), ('Zmags Corp.', 86)]
+------------------------------------
+With company name Livehouse ApS, there are 4 similarities: 
+[('Heap', 68), ('LiveRamp', 57), ('Issuu ApS', 55), ('RTB House S.A.', 54)]
+------------------------------------
+With company name WebSpellChecker LLC, there are 4 similarities: 
+[('HS Media LLC', 86), ('Claritas LLC', 86), ('Datonics LLC', 86), ('Deluxe Enterprise Operations, LLC', 86)]
+------------------------------------
+With company name loGo_net, there are 4 similarities: 
+[('CHURCH OF SCIENTOLOGY INTERNATIONAL', 56), ('FinancialContent Services Inc', 56), ('LoopMe Ltd', 56), ('OneTrust LLC', 53)]
+------------------------------------
+With company name VK, there are 4 similarities: 
+[('Affectv', 60), ('HERE Global BV', 60), ('iSpot.tv', 60), ('Usabilla B.V.', 60)]
+------------------------------------
+With company name Marin Software, there are 4 similarities: 
+[('Die Socialisten Social Software Development GmbH', 86), ('Functional Software, Inc.', 86), ('Public Good Software, Inc.', 86), ('Aurea Software', 79)]
+------------------------------------
+With company name Plus500UK Ltd, there are 4 similarities: 
+[('Campaign Monitor Pty Ltd', 86), ('Crimtan Holdings Ltd', 86), ('Digital Millennium Copyright Act Services Ltd.', 86), ('Effective Measure International Pty Ltd', 86)]
+------------------------------------
+With company name meba, there are 4 similarities: 
+[('Trumba Corporation', 74), ('BloomReach', 68), ('eBay, Inc.', 68), ('Medallia Inc.', 68)]
+------------------------------------
+With company name Beijing ShuZhi Technology Co.,Ltd., there are 4 similarities: 
+[('Ably Real-time Ltd', 86), ('ANIVIEW LTD', 86), ('Apester Ltd.', 86), ('AppendAd LTD', 86)]
+------------------------------------
+With company name Bisnode, there are 4 similarities: 
+[('wisecode s.r.l.', 64), ('Albacross Nordic AB', 51), ('Bidtellect, Inc', 51), ('BidTheatre AB', 51)]
+------------------------------------
+With company name The Money and Pensions Service, there are 4 similarities: 
+[('All-Russian State Television and Radio Broadcasting Company', 86), ('Internet Corporation for Assigned Names and Numbers', 86), ('Mayo Foundation for Medical Education and Research', 86), ('Taylor and Francis', 86)]
+------------------------------------
+With company name Mxptint, there are 4 similarities: 
+[('Civic Computing Limited', 64), ('SlickJump Inc.', 56), ('It Concepts', 53), ('Mux, Inc.', 53)]
+------------------------------------
+With company name SKcommunications, there are 4 similarities: 
+[('SK Communications Co., Ltd.', 85), ('Entravision Communications Corporation', 79), ('ITI COMMUNICATION', 79), ('KYOCERA Communication Systems Co., Ltd.', 79)]
+------------------------------------
+With company name Inuvo, Inc, there are 4 similarities: 
+[('3Play Media, Inc', 86), ('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86)]
+------------------------------------
+With company name VOCAST ApS, there are 4 similarities: 
+[('Cybot ApS', 63), ('Invoca', 60), ('Soluciones Corporativas IP, SL', 54), ('Issuu ApS', 53)]
+------------------------------------
+With company name Viacom CBS, there are 4 similarities: 
+[('ALC', 60), ('Wix.com, Inc.', 55), ('Globo Comunicacao e Participacoes S.A.', 54), ('Viafoura Inc.', 52)]
+------------------------------------
+With company name Zolando SE, there are 4 similarities: 
+[('Centers for Disease Control and Prevention', 63), ('Tidio Poland Sp. z.o.o.', 63), ('KOL', 60), ('UOL', 60)]
+------------------------------------
+With company name Digital Advisor ApS, there are 4 similarities: 
+[('Adnami ApS', 86), ('Cybot ApS', 86), ('Digital Advertising Consortium Inc.', 86), ('DIGITAL BUSINESS INTELLIGENCE', 86)]
+------------------------------------
+With company name Basechat, there are 4 similarities: 
+[('Webspectator Corporation', 68), ('Acceptable Ads Exchange', 56), ('Centers for Disease Control and Prevention', 56), ('LiveChat Inc', 56)]
+------------------------------------
+With company name AdUX, there are 4 similarities: 
+[('AdButler', 68), ('Baidu, Inc.', 68), ('Beeswax', 60), ('ClarityAd', 60)]
+------------------------------------
+With company name First Rate Exchange Services ltd, there are 4 similarities: 
+[('Ably Real-time Ltd', 86), ('ANIVIEW LTD', 86), ('Apester Ltd.', 86), ('AppendAd LTD', 86)]
+------------------------------------
+With company name Prezi Inc., there are 4 similarities: 
+[('3Play Media, Inc', 86), ('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86)]
+------------------------------------
+With company name Eyeopta PTE LTD, there are 4 similarities: 
+[('Bitrix Ltd.', 86), ('Campaign Monitor Pty Ltd', 86), ('Digital Millennium Copyright Act Services Ltd.', 86), ('Effective Measure International Pty Ltd', 86)]
+------------------------------------
+With company name Quisma Ltd, there are 4 similarities: 
+[('Ably Real-time Ltd', 86), ('Avocet Systems Ltd.', 86), ('Blis Global Ltd', 86), ('Campaign Monitor Pty Ltd', 86)]
+------------------------------------
+With company name dotdigital EMEA Limited, there are 4 similarities: 
+[('eyeota Limited', 86), ('Limited Liability Company "Omnikanalnie tehnologii"', 86), ('Native Media Limited Liability Company', 86), ('News Limited', 86)]
+------------------------------------
+With company name Relevad Corporation, there are 4 similarities: 
+[('Australian Broadcasting Corporation', 86), ('British Broadcasting Corporation', 86), ('Canadian Broadcasting Corporation', 86), ('Entravision Communications Corporation', 86)]
+------------------------------------
+With company name RevenueMantra Digital Media, there are 4 similarities: 
+[('HS Media LLC', 86), ('3Play Media, Inc', 86), ('ADman Media', 86), ('Adnet media', 86)]
+------------------------------------
+With company name Right Action, there are 4 similarities: 
+[('Digital Millennium Copyright Act Services Ltd.', 68), ('Target Corporation', 64), ('ALC', 60), ('Clickon', 60)]
+------------------------------------
+With company name Rocket Fuel Inc., there are 4 similarities: 
+[('4INFO, Inc.', 86), ('AdGear Technologies Inc.', 86), ('Adobe Inc.', 86), ('Altisource Solutions, Inc.', 86)]
+------------------------------------
+With company name Entireweb Sweden AB, there are 4 similarities: 
+[('Cint AB', 86), ('EPiServer AB', 86), ('Pingdom AB', 86), ('Spotify AB', 86)]
+------------------------------------
+With company name Full Circle Studies, Inc, there are 4 similarities: 
+[('33Across, Inc.', 86), ('3Play Media, Inc', 86), ('4INFO, Inc.', 86), ('Acquia, Inc', 86)]
+------------------------------------
+With company name Sirdata SAS, there are 4 similarities: 
+[('mediarithmics SAS', 86), ('SAS Institute Inc.', 86), ('Aidata', 75), ('DataXu', 68)]
+------------------------------------
+With company name SendinBlue, there are 4 similarities: 
+[('getblue', 59), ('National Library of Medicine', 53), ('SendPulse Inc', 52), ('eRecht24 - Karsten Fernkorn & Soeren Siebert', 51)]
+------------------------------------
+With company name All Media Eesti AS, there are 4 similarities: 
+[('HS Media LLC', 86), ('ADman Media', 86), ('Adnet media', 86), ('All-Russian State Television and Radio Broadcasting Company', 86)]
+------------------------------------
+With company name Skat, there are 4 similarities: 
+[('Conversant LLC', 68), ('Kaltura Inc', 68), ('Kantar Operations', 68), ('StackPath, LLC', 68)]
+------------------------------------
+With company name RTL Group S.A., there are 4 similarities: 
+[('A Medium Corporation', 86), ('Agencia EFE SA S M E', 86), ('FOCUS Online Group GmbH', 86), ('Globo Comunicacao e Participacoes S.A.', 86)]
+------------------------------------
+With company name Enalyzer International, there are 4 similarities: 
+[('CHURCH OF SCIENTOLOGY INTERNATIONAL', 86), ('Effective Measure International Pty Ltd', 86), ('International Business Machines Corporation', 86), ('MasterCard International Incorporated', 86)]
+------------------------------------
+With company name Smartclip, there are 4 similarities: 
+[('mParticle, Inc', 61), ('Globo Comunicacao e Participacoes S.A.', 60), ('SMARTER CLICK TECHNOLOGY LTD', 60), ('Marketizator Friends SRL', 57)]
+------------------------------------
+With company name Indicia Danmark A/S, there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('AdThink S.A.', 86), ('Gemius S.A.', 86)]
+------------------------------------
+With company name Perfect Privacy, LLC, there are 4 similarities: 
+[('HS Media LLC', 86), ('Adkernel, LLC', 86), ('AdThrive, LLC', 86), ('Claritas LLC', 86)]
+------------------------------------
+With company name 1plusX AG, there are 4 similarities: 
+[('Deutsche Telekom AG', 86), ('Emarsys eMarketing Systems AG', 86), ('Expert Systems AG', 86), ('F. Hoffman-La Roche AG', 86)]
+------------------------------------
+With company name Telenor ASA, there are 4 similarities: 
+[('Telerik EAD', 64), ('Criteo SA', 60), ('Deutsche Telekom AG', 60), ('Medianova Internet Hizmetleri A.S.', 60)]
+------------------------------------
+With company name Teads SA, there are 4 similarities: 
+[('Agencia EFE SA S M E', 86), ('Dailymotion SA', 86), ('SA La Nacion', 86), ('Teads ( Luxenbourg ) SA', 86)]
+------------------------------------
+With company name Automobile Association, there are 4 similarities: 
+[('VISA INTERNATIONAL SERVICE ASSOCIATION', 86), ('PR Newswire Association LLC', 64), ('Konduto', 61), ('A.Mob SAS', 60)]
+------------------------------------
+With company name TinyURL, there are 4 similarities: 
+[('UOL', 60), ('CHURCH OF SCIENTOLOGY INTERNATIONAL', 56), ('Terminus', 53), ('Altisource Solutions, Inc.', 51)]
+------------------------------------
+With company name NHN Corporation, there are 4 similarities: 
+[('Atlassian Corporation plc', 86), ('Australian Broadcasting Corporation', 86), ('British Broadcasting Corporation', 86), ('Canadian Broadcasting Corporation', 86)]
+------------------------------------
+With company name TPMN co., ltd., there are 4 similarities: 
+[('Campaign Monitor Pty Ltd', 86), ('Crimtan Holdings Ltd', 86), ('Digital Millennium Copyright Act Services Ltd.', 86), ('Effective Measure International Pty Ltd', 86)]
+------------------------------------
+With company name Optimise Media Group Ltd, there are 4 similarities: 
+[('HS Media LLC', 86), ('3Play Media, Inc', 86), ('ADman Media', 86), ('Adnet media', 86)]
+------------------------------------
+With company name LeadLander Inc., there are 4 similarities: 
+[('AdGear Technologies Inc.', 86), ('Adobe Inc.', 86), ('Altisource Solutions, Inc.', 86), ('Amazon Technologies, Inc.', 86)]
+------------------------------------
+With company name Tradedoubler AB, there are 4 similarities: 
+[('Cint AB', 86), ('Pingdom AB', 86), ('Spotify AB', 86), ('Vergic AB', 86)]
+------------------------------------
+With company name Dalet S.A., there are 4 similarities: 
+[('A Medium Corporation', 86), ('Agencia EFE SA S M E', 86), ('GetSocial, S.A.', 86), ('Globo Comunicacao e Participacoes S.A.', 86)]
+------------------------------------
+With company name Valtech A/S, there are 4 similarities: 
+[('A Medium Corporation', 86), ('Agencia EFE SA S M E', 86), ('Globo Comunicacao e Participacoes S.A.', 86), ('Internet Billboard a.s.', 86)]
+------------------------------------
+With company name VideoTool v. NNTV ApS, there are 4 similarities: 
+[('Adnami ApS', 86), ('Cybot ApS', 86), ('Issuu ApS', 86), ('Usabilla B.V.', 86)]
+------------------------------------
+With company name London & Partners Limited, there are 4 similarities: 
+[('ALTERGEO LIMITED', 86), ('eyeota Limited', 86), ('Limited Liability Company "Omnikanalnie tehnologii"', 86), ('Native Media Limited Liability Company', 86)]
+------------------------------------
+With company name John Lewis Partnership, there are 4 similarities: 
+[('RUN', 60), ('SmarterHQ', 60), ('Wistia', 60), ('Supership Inc', 57)]
+------------------------------------
+With company name Stena AB Group, there are 4 similarities: 
+[('CFI Group', 86), ('Cint AB', 86), ('FOCUS Online Group GmbH', 86), ('The Rocket Science Group, LLC', 86)]
+------------------------------------
+With company name ISP Digital, S.L.U, there are 4 similarities: 
+[('Adform A/S', 86), ('AdThink S.A.', 86), ('Digital Advertising Consortium Inc.', 86), ('DIGITAL BUSINESS INTELLIGENCE', 86)]
+------------------------------------
+With company name IHS Markit Ltd., there are 4 similarities: 
+[('Campaign Monitor Pty Ltd', 86), ('Digital Millennium Copyright Act Services Ltd.', 86), ('Effective Measure International Pty Ltd', 86), ('Everything Unlocked Ltd', 86)]
+------------------------------------
+With company name Teamgeek, there are 4 similarities: 
+[('Minute Spoteam Ltd.', 57), ('Team Internet AG', 57), ('BrightEdge Technologies Inc.', 56), ('Free Stream Media Corp', 56)]
+------------------------------------
+With company name Splitrock Studio Pty Ltd, there are 4 similarities: 
+[('ANIVIEW LTD', 86), ('Apester Ltd.', 86), ('AppendAd LTD', 86), ('Bitrix Ltd.', 86)]
+------------------------------------
+With company name Citizens Advice, there are 4 similarities: 
+[('DynAdmic', 56), ('Ividence', 56), ('Ad Lightning, Inc.', 55), ('Cision US, Inc.', 55)]
+------------------------------------
+With company name Check Point Travel, there are 4 similarities: 
+[('Strava', 60), ('iSpot.tv', 56), ('Okta, Inc.', 53), ('Cint AB', 51)]
+------------------------------------
+With company name VITEC Software Group AB, there are 4 similarities: 
+[('Alibaba Group', 86), ('Aurea Software', 86), ('BidTheatre AB', 86), ('CFI Group', 86)]
+------------------------------------
+With company name Financial Ombudsman Service, there are 4 similarities: 
+[('ESRI', 68), ('FinancialContent Services Inc', 68), ('ADman Media', 58), ('Vergic AB', 57)]
+------------------------------------
+With company name GOV.UK, there are 4 similarities: 
+[('Ve Global UK Limited', 86), ('Vertigo Studio SRL', 60), ('Alibaba Group', 50), ('CFI Group', 50)]
+------------------------------------
+With company name Kickstarter Inc., there are 4 similarities: 
+[('4INFO, Inc.', 86), ('AdGear Technologies Inc.', 86), ('Adobe Inc.', 86), ('Altisource Solutions, Inc.', 86)]
+------------------------------------
+With company name Kitbag Limited, there are 4 similarities: 
+[('Ciliara Trading Limited', 86), ('Civic Computing Limited', 86), ('Digital Control Room Limited', 86), ('Fifty Technology Limited', 86)]
+------------------------------------
+With company name MasterCard Incorporated, there are 4 similarities: 
+[('MasterCard International Incorporated', 86), ('Symantec Corporation', 65), ('Adobe Inc.', 60), ('HP Inc', 60)]
+------------------------------------
+With company name Parker Software Limited, there are 4 similarities: 
+[('Aurea Software', 86), ('Die Socialisten Social Software Development GmbH', 86), ('eyeota Limited', 86), ('Limited Liability Company "Omnikanalnie tehnologii"', 86)]
+------------------------------------
+With company name Mybanker.dk A/S, there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('Gemius S.A.', 86), ('Globo Comunicacao e Participacoes S.A.', 86)]
+------------------------------------
+With company name National Debtline, there are 4 similarities: 
+[('National Library of Medicine', 86), ('National Public Radio, Inc.', 86), ('ALC', 68), ('International Business Machines Corporation', 68)]
+------------------------------------
+With company name KMD, there are 4 similarities: 
+[('HS Media LLC', 60), ('3Play Media, Inc', 60), ('A Medium Corporation', 60), ('ADman Media', 60)]
+------------------------------------
+With company name World Council of Churches, there are 4 similarities: 
+[('Department of Health and Human Services', 86), ('Department of Information Technology of Moscow', 86), ('push.world', 86), ('State of Alabama', 86)]
+------------------------------------
+With company name OK Mobil, there are 4 similarities: 
+[('Arello Mobile', 79), ('i-mobile co. LTD', 68), ('Mobile TeleSystems Public Joint Stock Company', 64), ('GMO GlobalSign, Inc.', 56)]
+------------------------------------
+With company name IQVIA Inc, there are 4 similarities: 
+[('3Play Media, Inc', 86), ('6 Sense Insights Inc.', 86), ('ActiveCampaign, Inc.', 86), ('Ad Lightning, Inc.', 86)]
+------------------------------------
+With company name PayPal (Europe) S.à.r.l. et Cie, there are 4 similarities: 
+[('Adform A/S', 86), ('AdThink S.A.', 86), ('Agencia EFE SA S M E', 86), ('Bloomberg L.P.', 86)]
+------------------------------------
+With company name Rejseplanen A/S, there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('Gemius S.A.', 86), ('Globo Comunicacao e Participacoes S.A.', 86)]
+------------------------------------
+With company name Colourbox, there are 4 similarities: 
+[('KOL', 60), ('UOL', 60), ('Olark', 54), ('Polar', 54)]
+------------------------------------
+With company name SMA Solar Technology AG, there are 4 similarities: 
+[('Awin AG', 86), ('Department of Information Technology of Moscow', 86), ('Sportradar AG', 86), ('SwissSign AG', 86)]
+------------------------------------
+With company name Thomson Reuters, there are 4 similarities: 
+[('User1st', 61), ('RUN', 60), ('Terminus', 60), ('Teroa S.A.', 56)]
+------------------------------------
+With company name We Do Nice Things, there are 4 similarities: 
+[('Thinglink', 60), ('Ezoic Inc.', 54), ('Omeda Communications', 54), ('Tencent Holdings Ltd.', 54)]
+------------------------------------
+With company name Workable Technology Limited, there are 4 similarities: 
+[('ALTERGEO LIMITED', 86), ('Department of Information Technology of Moscow', 86), ('eyeota Limited', 86), ('ID5 Technology Ltd', 86)]
+------------------------------------
+With company name Salling Group A/S, there are 4 similarities: 
+[('A.Mob SAS', 86), ('Adform A/S', 86), ('AdThink S.A.', 86), ('CFI Group', 86)]
+------------------------------------
+With company name IDEMIA France SAS, there are 4 similarities: 
+[('A.Mob SAS', 86), ('Gamned SAS', 86), ('Mailjet SAS', 86), ('ID.fr', 72)]
+------------------------------------
+With company name Yieldlab GmbH, there are 4 similarities: 
+[('Die Socialisten Social Software Development GmbH', 86), ('FOCUS Online Group GmbH', 86), ('Yieldlove GmbH', 81), ('IPONWEB GmbH', 64)]
+------------------------------------
+With company name Xandr, there are 4 similarities: 
+[('Upland Software Inc.', 57), ('Wiland, Inc.', 57), ('Adzerk', 55), ('Acceptable Ads Exchange', 54)]
+------------------------------------
+With company name SiteSpect Inc, there are 4 similarities: 
+[('6 Sense Insights Inc.', 86), ('AdGear Technologies Inc.', 86), ('Altisource Solutions, Inc.', 86), ('Amazon Technologies, Inc.', 86)]
+------------------------------------
+With company name Guardian News and Media Ltd, there are 4 similarities: 
+[('HS Media LLC', 86), ('3Play Media, Inc', 86), ('Ably Real-time Ltd', 86), ('ADman Media', 86)]

@@ -1,0 +1,881 @@
+HS Media LLC
+33Across, Inc.
+3Play Media, Inc
+4Cite Marketing
+4INFO, Inc.
+6 Sense Insights Inc.
+A Medium Corporation
+A.Mob SAS
+AAAS
+AB Dagens Nyheter
+Ably Real-time Ltd
+Acceptable Ads Exchange
+Acquia, Inc
+ActiveCampaign, Inc.
+AcuityAds
+Ad Lightning, Inc.
+Ada Support Inc.
+Adagio
+AdButler
+Add Shoppers
+AddToAny
+Adelphic, Inc.
+Adform A/S
+AdGear Technologies Inc.
+Adkernel, LLC
+ADLEAD
+ADman Media
+Admedo
+Administration for Children and Families
+Admixer Technologies
+Adnami ApS
+Adnet media
+Adobe Inc.
+AdPilot
+AdPlugg
+AdRoll, Inc.
+Adscore Technologies DMCC
+AdSniper
+AdSpirit GmbH
+Adtelligent Inc.
+AdTheorent Inc
+AdThink S.A.
+AdThrive, LLC
+advanced STORE GmbH
+Adventori
+Adyoulike
+Adzerk
+Affectv
+Affinity
+Agencia EFE SA S M E
+AGUSTIN EDWARDS E Y COMPANIA
+Aidata
+Airbrake Technologies
+Akamai Technologies
+Albacross Nordic AB
+ALC
+alex yastrebenetsky
+Algolia Inc
+Alibaba Group
+All-Russian State Television and Radio Broadcasting Company
+ALTERGEO LIMITED
+Altisource Solutions, Inc.
+Amazon Technologies, Inc.
+Amobee, Inc
+Amplitude
+ANIVIEW LTD
+Apester Ltd.
+apilayer GmbH
+AppendAd LTD
+Apple Inc.
+AppsFlyer
+Arello Mobile
+Asahi Shimbun
+AT Internet
+Atlassian Corporation plc
+AudienceProject
+AudienceScience Inc.
+AudioEye, Inc.
+Aurea Software
+Australian Broadcasting Corporation
+Auth0, Inc.
+Automattic, Inc.
+AutopilotHQ, inc
+Avocet Systems Ltd.
+Awin AG
+Awio Web Services LLC
+Azion Technologies
+B-Analytics, LLC
+Baidu, Inc.
+Barracuda Networks Inc.
+Bazaarvoice, Inc.
+Beachfront Media LLC
+Beeswax
+Benhauer sp. z o.o.
+Benjamin Cahen
+Bidtellect, Inc
+BidTheatre AB
+BitBalloon
+Bitly, Inc.
+Bitrix Ltd.
+Blackbaud, Inc.
+Blis Global Ltd
+Blockthrough Inc.
+Bloomberg L.P.
+BloomReach
+BlueConic, Inc.
+BlueSnap Inc
+Bombora Inc.
+Bounce Exchange
+Box, Inc.
+Branch Metrics, Inc.
+Braze, Inc.
+Brightcove, Inc.
+BrightEdge Technologies Inc.
+British Broadcasting Corporation
+Browser Update
+Buffer Inc.
+Bugsnag Inc.
+Bundesamt für Informatik und Telekommunikation BIT
+BunnyCDN
+Buscape Company Informacao e Tecnologia Ltda
+BuySellAds
+BuzzFeed, Inc.
+Buzzoola Inc.
+ByteDance Ltd.
+C3 Metrics, Inc.
+CacheNetworks, LLC
+Call Tracking Metrics LLC
+Campaign Monitor Pty Ltd
+Canadian Broadcasting Corporation
+Catamorphic Co.
+CatchPoint Systems Inc
+Cedexis
+Centers for Disease Control and Prevention
+Centro, Inc.
+Ceros, Inc.
+CFI Group
+Chartbeat
+Choozle, Inc.
+CHURCH OF SCIENTOLOGY INTERNATIONAL
+Ciliara Trading Limited
+Cint AB
+Cisco Systems, Inc.
+Cision US, Inc.
+Citrix Systems Inc
+Civic Computing Limited
+Claritas LLC
+ClarityAd
+ClearSale S.A.
+CleverDATA LLC
+Clickagy
+Clickon
+Clicksco FZ
+ClickTale Ltd
+Cloudflare, Inc.
+Cloudinary Ltd
+CloudPayments LLC
+CodePen
+Cognitiv Corp.
+Collective Roll
+comScore, Inc
+Conductrics
+Connatix
+Connexity, Inc.
+Constant Contact, Inc
+Consult IT Nordic AB
+Consumable, Inc.
+Content Insights
+Content Pass GmbH
+Contentful GmbH
+ContentSquare
+Conversant LLC
+Convert Insights Inc
+Coral-Tell Ltd.
+Council of Better Business Bureaus
+Coveo Solutions Inc.
+Crazy Egg, Inc.
+Creative Commons
+CreditCards.com, LLC
+Crimtan Holdings Ltd
+Crisp IM SARL
+Criteo SA
+Cross Pixel Media, Inc.
+Crossref
+Crownpeak Technology
+CuteSoft.net
+Cvent, Inc.
+CyberAgent, Inc.
+Cybot ApS
+Dailymotion SA
+DASH Industry Forum Inc
+Datadog, Inc.
+DATADOME
+DataXu
+Datonics LLC
+Decibel Insight Ltd
+DeepIntent Inc
+Delivra
+Delta Projects AB
+Deluxe Enterprise Operations, LLC
+Demandbase, Inc.
+Department of Health and Human Services
+Department of Information Technology of Moscow
+Design Barn, Inc.
+Deutsche Telekom AG
+Deutsches Institut f. Medizinische Dokumentation und Information
+DialogTech, Inc.
+Die Socialisten Social Software Development GmbH
+Dietrich Banziger
+DigiCert, Inc.
+Digioh, LLC
+Digital Advertising Consortium Inc.
+DIGITAL BUSINESS INTELLIGENCE
+Digital Control Room Limited
+Digital Millennium Copyright Act Services Ltd.
+Digital River, Inc.
+Digital Science Research Solutions Inc
+DigitalOcean, LLC
+Disqus, Inc.
+District M Inc.
+DIYlaunch
+Doggybites bvba
+DOORBELL.IO LTD
+Dotmetrics
+DoubleVerify
+Dow Jones & Company, Inc.
+Drift.com, Inc.
+Dropbox, Inc
+Dstillery Inc.
+Dual Technologies Services
+DynAdmic
+Dynamic Web Source, Inc.
+Dynamic Yield
+Dynatrace LLC
+E-Diary Pty Ltd
+eBay, Inc.
+Effective Measure International Pty Ltd
+eHealthcare Solutions, LLC
+Elfsight
+Emarsys eMarketing Systems AG
+Embed.ly Inc
+Emerse Ltd
+Emma Inc.
+EMPRESA EL MERCURIO SAP
+EMX Digital, LLC
+Encyclopaedia Britannica Inc.
+engageBDR
+Engine USA LLC
+Enreach Solutions Oy
+Ensighten, Inc
+Entravision Communications Corporation
+Environmental Systems Research Institute, Inc.
+Ephox Corporation
+EPiServer AB
+EQ Works
+Equifax Inc.
+eRecht24 - Karsten Fernkorn & Soeren Siebert
+ESRI
+etracker GmbH
+eTrust Pro Inc.
+Eurolandcom AB
+Eventbrite, Inc.
+Everything Unlocked Ltd
+ExitReality
+Expansion
+Expert Systems AG
+Exponential Interactive Inc.
+ExposeBox
+eyeota Limited
+eyeReturn Marketing Inc.
+Ezoic Inc.
+F. Hoffman-La Roche AG
+F@N Communications, Inc
+Faber Technology,inc
+Facebook, Inc.
+FastG8
+Fastly, Inc.
+FC2, Inc.
+Fifty Technology Limited
+FinancialContent Services Inc
+Fit Analytics GmbH
+Five9, Inc
+Fjord Technologies
+Flashtalking Inc
+flexAnswer Solutions Pte Ltd
+Flipboard, Inc.
+Flowplayer AB
+fluct,Inc.
+FOCUS Online Group GmbH
+Fonticons Inc
+Foodient Ltd.
+Forbes Media LLC
+ForeSee Results, Inc.
+Formstack
+FreakOut Holdings, inc.
+Free Stream Media Corp
+FreeWheel
+FreshAddress, Inc.
+FullStory
+Functional Software, Inc.
+Future Plc
+Gamned SAS
+GCN Publishing, Inc.
+Gemius S.A.
+Geniee, inc.
+Georg Thieme Verlag KG
+getblue
+GetIntent
+GetSocial, S.A.
+GetWebCraft Limited
+Gigya Inc
+Giphy LLC
+GitHub, Inc.
+Glance Networks Inc
+Glassdoor, Inc.
+Glencoe Software
+Globo Comunicacao e Participacoes S.A.
+GMO AD Marketing Inc.
+GMO GlobalSign, Inc.
+GoDaddy Inc.
+Golden Bees
+GoodRx, Inc.
+Google LLC
+Granicus, LLC
+Green Hills
+gskinner
+Guardian News & Media Limited
+GuideStar USA, Inc.
+GumGum
+Gunosy Inc
+Hand Talk
+Hatena Co., Ltd.
+Health on the Net (HON)
+Health On the Net Foundation
+Healthline
+Heap
+HELLO UMI S.L.
+Help Scout Inc.
+HERE Global BV
+Higher Logic
+Highsoft AS
+HighWire Press Inc
+Hola Networks Ltd.
+Hotjar Ltd
+HP Inc
+Httpool d.o.o.
+HubSpot, Inc.
+Human Security, Inc.
+Hybrid Adtech, Inc.
+Hypothes.is
+i-mobile co. LTD
+IAB Europe
+Ian Birkby
+Icons8 LLC
+ID.fr
+ID5 Technology Ltd
+IDB, LLC
+IgnitionOne, LLC
+ImageKit Private Limited
+ImBox Sweden AB
+Imgur, Inc.
+Impact
+Improve Digital BV
+Independent Newspapers
+Index Exchange, Inc.
+Infolink Media LLC
+INFOnline GmbH
+Informationstechnikzentrum Bund (ITZBund)
+Informer Technologies, Inc.
+Inmar, Inc.
+InMobi Pte Ltd
+InMoment, Inc.
+Innovid Media
+inPowered
+Inspectlet
+Instana, Inc.
+Instapage, Inc.
+Integral Ad Science, Inc.
+Intent IQ, LLC
+INTER CITY ADS (MALAYSIA) SDN. BHD
+Intercom
+Interdeal development Ltd
+International Business Machines Corporation
+Internet Billboard a.s.
+Internet Brands Inc
+Internet Corporation for Assigned Names and Numbers
+Intuition Machines, Inc.
+Investis Ltd.
+Invoca
+InvoCube Ltd
+IO Technologies Inc.
+iPerceptions Inc.
+IPONWEB GmbH
+IPROM, d.o.o.
+Isaac Ezra
+iSpot.tv
+Issuu ApS
+It Concepts
+ITI COMMUNICATION
+iubenda s.r.l.
+IVC - INSTITUTO VERIFICADOR DE COMUNICAÇÃO
+Ividence
+Janrain
+Jeremy Bieger
+Jerusalem Post Ltd. (The Jerusalem Post)
+JFG NETWORKS
+Jimdo GmbH
+Johns Hopkins University
+JSC "Echo of Moscow"
+JSC ADFACT
+JustPremium
+Kakao Corp.
+Kaltura Inc
+Kameleoon
+Kantar Operations
+Kargo Global, Inc.
+KBM Group LLC
+Keen.io LLC
+Kenshoo TLD
+Keywee
+Klarna Bank AB
+Klaviyo
+Knorex Pte. Ltd.
+KOL
+Konduto
+KYOCERA Communication Systems Co., Ltd.
+Liberated Syndication
+Limelight Networks, Inc.
+Limited Liability Company "Omnikanalnie tehnologii"
+LinkConnector Corporation
+Liquid New Media Limited
+Lithium Technologies
+LiveChat Inc
+LiveHelpNow, Inc
+LiveIntent Inc.
+LivePerson, Inc
+LiveRamp
+Liwio
+LLC "AmberData"
+LLC "CDN-video"
+LLC "Internest-holding"
+LLC "PalitrumLab"
+LLC "SMI2"
+Logly, Inc.
+LogMeIn, Inc.
+LongTail Ad Solutions, Inc.
+Loop11
+LoopMe Ltd
+Lotame Solutions, Inc.
+LTD Sape
+Ltd. "Service-Telecom"
+Lucid Holdings, LLC
+Lucky Orange LLC
+Lytics
+Macromill, Inc.
+mads holmen
+Mail.Ru Group, OOO
+Mailjet SAS
+Mapbox Inc.
+MapMakers Group Ltd.
+Marchex, Inc.
+Marketizator Friends SRL
+Markit Group Limited
+Marks and Spencer P.L.C.
+Massachusetts Medical Society
+MasterCard International Incorporated
+Mather Economics
+Max Lynch
+MaxMind Inc.
+Mayo Foundation for Medical Education and Research
+Medallia Inc.
+Media Today
+Media.net Advertising FZ-LLC
+MediaMath, Inc.
+Medianova Internet Hizmetleri A.S.
+mediarithmics SAS
+Mediavine, Inc.
+MediaWallah LLC
+Mention Me Ltd
+MercadoLibre Inc.
+Meredith Corporation
+Merkle Inc
+MGID Inc
+Michael Browitt
+MicroAd, Inc.
+Microsoft Corporation
+Mindbox Ltd.
+Mindscape Limited
+Mineconomrazvitiya Rossii
+Ministerio de Modernización
+Minute Spoteam Ltd.
+Mixpanel, Inc.
+Mobfox US LLC
+Mobile TeleSystems Public Joint Stock Company
+Mobiquity Inc.
+Monetate, Inc.
+Monotype Imaging Inc.
+Monsido Inc.
+Morningstar Inc
+Motionpoint Corporation
+Mouseflow
+Movable Ink
+Moxie Software Inc.
+Mozilla Foundation
+mParticle, Inc
+Mux, Inc.
+My Plaza Pty Ltd t/as Pulseware
+MyFonts Inc.
+Nasmedia
+National Library of Medicine
+National Public Radio, Inc.
+Native Media Limited Liability Company
+Nativo, Inc
+Navegg S.A.
+Naver Corporation
+Near Pte. Ltd.
+NEOLANE
+Neustar, Inc.
+New Relic
+New York MEDIA LLC
+News Limited
+News.Me, Inc
+Nexstar Media Group
+Nextdoor, Inc.
+NHK(Japan Broadcasting Corporation)
+NHN Entertainment co.,ltd
+NHS Digital
+NIC.UA LLC
+NicePeopleAtWork S.L.
+Nimmonet
+Ninja Tools Inc.
+NinthDecimal, Inc
+Northwestern University
+NTT DOCOMO, INC.
+NTT Resonant Inc.
+NUI Media
+Nvidia Corporation
+Obshchestvo s ogranichennoj otvetstvennostyu "Internet Kholding E-generator"
+Ogury Limited
+Okta, Inc.
+Oktopost Technologies Ltd
+Olark
+Omeda Communications
+OnAudience Ltd.
+ONEALL SARL
+OneSignal
+OneSoon Ltd
+OneTag Limited
+OneTrust LLC
+OOO "Booster"
+OOO "ECO PC - Complex Solutions"
+OOO Komitet
+OpenJS Foundation
+OpenStreetMap Foundation
+OpenTable, Inc.
+Opentracker
+OpenX Technologies Inc
+Opera Software AS
+OptimiWay Ltd
+Optimizely, Inc.
+Optomaton UG (haftungsbeschränkt)
+Oracle Corporation
+OtherLevels Inc
+otto wust
+Outbrain
+Oxford University Press
+PAKH Ltd
+Park taejoon
+Parsely, Inc.
+PathDefender
+PayPal, Inc.
+Pendo.io, Inc.
+Perfect Market, Inc.
+Perfect Sense Operations
+Perform Media Services Ltd
+PerimeterX, Inc.
+Permutive, Inc.
+Piano Software
+Pingdom AB
+Pinterest, Inc.
+Piwik PRO Sp. z o.o.
+PJSC Vympelcom
+Plaid Inc
+Platform161
+Playbuzz LTD
+PLAYGROUND XYZ
+plista GmbH
+Plotly, Inc
+Podsights
+Polar
+Poshibalov Evgeny Vasilyevich
+Postcode Anywhere
+PowerLinks Media Limited
+PowerReviews, Inc.
+PR Newswire Association LLC
+Prebid.org
+PRESIDÊNCIA DA REPÚBLICA
+PriceSpider (NeuIntel, LLC)
+primeNumber Inc.
+Prismic.io Inc.
+Proclivity Media, Inc.
+proinity GmbH
+Project Blinkenlights
+Prospect One
+Provide Support LLC
+PTMIND INC.
+Public Good Software, Inc.
+Public Joint Stock Company "Rostelecom"
+Publications Office of the EU
+PubMatic, Inc.
+Pulsepoint, Inc.
+push.world
+Pusher Ltd
+Quadran
+Qualaroo
+Quality Nonsense Ltd
+Qualtrics, LLC
+Quantcast Corporation
+Quantum Metric Inc.
+Questex LLC
+Quora
+Quotient Technology Inc.
+Rackspace US, Inc.
+Radio e Televisao Record S.A.
+Rakuten, Inc.
+Rambler Internet Holding, LLC
+rapidmail GmbH
+Rating-Widget, Inc.
+Ravi Trivedi
+RawGit
+Ray Networks Ltd
+RD Gestão e Sistemas Ltda. EPP
+Reach plc
+Read It Later, Inc
+ReadSpeaker Holding BV
+Reddit Inc.
+Reflektion
+REFLUENCE
+RELX Group
+Renegade Internet, Inc.
+Report-URI Ltd.
+Resonate Networks
+Retyp LLC
+RevContent, LLC
+RhythmOne
+Rich Audience Technologies
+RichRelevance
+Rijksoverheid
+Riskified Ltd.
+RM SISTEMAS
+Roger Wilco LLC
+Rollbar, Inc.
+Roq.ad
+ROSSIYA SEGODNYA, FGUP
+Roxr Software Ltd
+Roy Morgan Research Ltd.
+RTB House S.A.
+RTK.IO, Inc
+Rumble Inc.
+RUN
+RuTarget LLC
+SA La Nacion
+SaaS.group LLC
+Sailthru, Inc
+Salesforce.com, Inc.
+SalesLoft
+Salsa Labs, Inc.
+SAS Institute Inc.
+Scala Communications, Inc.
+Scholarly iQ
+Secretaria de la Funcion Publica
+SEEDTAG ADVERTISING S.L.
+Segment.io, Inc.
+Semasio GmbH
+SendPulse Inc
+SEOPULT LTD
+SessionCam Ltd
+Seznam.cz, a.s.
+Shareaholic Inc
+Sharecare, Inc.
+Shared Services Canada
+ShareThis, Inc
+Sharethrough, Inc.
+Sharpspring Inc
+ShopBack
+Shopify Inc.
+Sift Science, Inc.
+Simplifi Holdings Inc.
+Singapore Press Holdings Limited
+Sirius XM Holdings Inc.
+Siteimprove A/S
+Sitelock LLC
+SixMix LLC
+SK Communications Co., Ltd.
+Skimbit LTD
+SLI Systems, Inc
+SlickJump Inc.
+Smaato Inc.
+Smartadserver S.A.S
+SMARTER CLICK TECHNOLOGY LTD
+SmarterHQ
+SmartNews, Inc.
+Smithsonian Institution
+Smooch Technologies Inc.
+SmugMug, Inc.
+Snap Inc.
+SnapApp, Inc.
+Snapsort Inc.
+So-net Media Networks Corporation.
+SoftBank Technology Corp.
+Sojern, Inc.
+SolarWinds Worldwide, LLC
+Soluciones Corporativas IP, SL
+Sonobi, Inc
+SoundCloud Global Limited & Co. KG
+Sovrn Holdings
+SphereUp, Inc
+Sportradar AG
+Spotify AB
+SpotX, Inc.
+Springer Nature B.V.
+Squarespace, Inc
+SSP Network Ltd
+Stackla
+StackPath, LLC
+Starfield Technologies, LLC
+StatCounter
+State of Alabama
+Steel House, Inc
+Strava
+Stripe, Inc
+Ströer Group
+Sumo Group
+Sumo Logic Inc.
+Supership Inc
+Survata, Inc.
+SurveyMonkey Inc.
+Survicate Sp. z o.o.
+Swiftype, Inc.
+SwissSign AG
+Symantec Corporation
+Synacor, Inc.
+Taboola, Inc.
+Tapad, Inc.
+TapInfluence Inc.
+Tappcelator Media S.L.
+Target Corporation
+TARGUS Information Corporation
+Taylor and Francis
+Teads ( Luxenbourg ) SA
+Tealium Inc.
+Team Internet AG
+TED Conferences
+Telaria
+Telegram Messenger LLP
+Telerik EAD
+Tema Group Limited
+Tencent Holdings Ltd.
+Terminus
+Teroa S.A.
+Thalia Buecher GmbH
+The Banoni Company
+The Executive Office of the President
+The Financial Times Limited
+The Font Bureau, Inc.
+The Hoefler Type Foundry, Inc
+The Motley Fool, LLC
+The New York Times Company
+The Nielsen Company
+The Rocket Science Group, LLC
+The Rubicon Project, Inc.
+The Trade Desk Inc
+The Washington Post
+Thermo Fisher Scientific Inc.
+Thinglink
+Throtle
+Tidio Poland Sp. z.o.o.
+Times Internet Ltd
+Timzon, LLC
+Tinkoff Bank AO
+TMP Worldwide
+TMP Worldwide Advertising & Communications, LLC
+TouchCommerce, Inc
+TradeTracker FZ-LLC
+TransUnion LLC
+Treasure Data, Inc
+Trengo
+TripAdvisor LLC
+TripleLift
+Triton Digital, Inc.
+Trumba Corporation
+Trust Provider B.V.
+TrustArc Inc.
+Trustpilot A/S
+TVSquared
+twiago GmbH
+Twitter, Inc.
+Typeform S.L.
+Unbounce
+UNIDAD EDITORIAL SA
+UNITED ONLINE VENTURES LIMITED
+United States Department of Labor
+UnitedHealth Group Inc.
+University of Pennsylvania
+Universo Online S.A.
+unpkg
+Unruly Group Limited
+UOL
+Upland Software Inc.
+Usabilla B.V.
+User Local,Inc.
+User Zoom, Inc.
+User1st
+Valassis Digital
+Ve Global UK Limited
+Veer West LLC.
+Vergic AB
+VeriSign, Inc.
+Verizon Media
+Vertigo Studio SRL
+Verwertungsgesellschaft WORT
+VGTRK
+Viafoura Inc.
+Vidyard
+Viewster AG
+Vihub Ltd.
+Vimeo, LLC
+Viqeo LLC.
+Virtual Minds AG
+VISA INTERNATIONAL SERVICE ASSOCIATION
+Vizzit International AB
+Vladimir Fedotov
+Vox Media, Inc.
+Voxus Midia Ltda
+W3C
+Walla Communication Ltd.
+WarnerMedia, LLC
+Webflow, Inc.
+WebMD, LLC
+Weborama
+WebShop Marketing Kft.
+Webspectator Corporation
+Webtrekk GmbH
+WebTrends Inc.
+Weebly, Inc.
+Widespace AB
+Wij gebruiken cookies om u website functionaliteit aan te bieden en voor login-authenticatie doeleinden. Op deze website worden alleen noodzakelijke cookies gebruikt en alleen die worden standaard opgeslagen. U kunt meer informatie krijgen door op "Cookievoorkeuren" te klikken of door de Cookieverklaring-link op onze website te bezoeken. Voor meer informatie over het gebruik van cookies verwijzen wij u naar de
+Wikimedia Foundation, Inc.
+Wiland, Inc.
+Wingify
+Wirewax LTD
+wisecode s.r.l.
+Wishpond Technologies Ltd.
+Wistia
+Wix.com, Inc.
+Wolters Kluwer Health, Inc.
+Woopra, Inc.
+WordPress Foundation
+World Health Organization (WHO)
+Wowza Media Systems, LLC
+Xaxis
+Yahoo Japan Corporation
+Yandex LLC
+Yediot Information Technologies ltd
+YENGO PTE. LTD
+Yext, Inc.
+Yieldlove GmbH
+YieldMo, Inc.
+Yotpo Ltd
+Yozo, Kaneko
+ZeBestOf
+Zebrafish Labs
+Zendesk, Inc.
+Zeotap GmbH
+Zeta Global
+Ziff Davis LLC
+Zmags Corp.
+Zocdoc, Inc.
+ZOHO Corporation
+Zoom Information, Inc.
+ZypMedia, Inc.

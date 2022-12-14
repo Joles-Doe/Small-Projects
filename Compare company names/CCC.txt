@@ -1,0 +1,370 @@
+Netminers ApS
+DNN Corp.
+Amla Commerce
+Affinity Solutions, Inc.
+AB Tasty
+Amazon.com, Inc.
+ResponseTap Limited
+Automattic Inc
+FM Adserving A / S
+Agillic ApS
+Plone Foundation
+CEWE Stiftung & Co. KGaA
+SurveyMonkey
+Addwish ApS
+D4t4 Solutions plc
+PrestaShop SA
+Brightcove Inc.
+Boliga ApS
+BrightEdge Technologies, Inc.
+Typo3
+F5 Networks, Inc
+Cake Software Foundation, Inc.
+CherryFramework
+CodeIgniter Foundation
+igeek Ltd
+IBM Corporation
+Acoustic, L.P.
+Cybot A/S
+Comcast Cable Communications Management, LLC
+Criteo Corp.
+Cxense AS
+DMD Marketing Corp.
+Dynamicweb
+M'Labs
+Adnuntius AS
+eGain Communications Corporation
+APSIS International AB
+Krak A / S
+Packet Tide, LLC
+Falck Assistance A/S
+FDIH
+Umbraco A/S
+Genesys Telecommunications Laboratories, Inc.
+Global-e Online Ltd
+Catchpoint Systems, Inc.
+Intrado Corporation
+Xaxis, Inc.
+Roku, Inc.
+Dynamicweb Software A/S
+Drupal
+Habla, Inc.
+Imperva, Inc.
+Go Inspire Group Limited
+Jive Software
+Raptor Services A/S
+Visa
+Batia Infotech
+The PHP Group
+Open Source Matters inc
+Laravel LLC
+Khoros, LLC
+Netop
+23 Visual Aps
+LivePerson Inc.
+Mouseflow ApS
+Moodle Pty Ltd
+Siteimprove
+SeaChange
+Citrix Systems, Inc.
+comScore, Inc.
+WPP plc
+Open Text Corporation
+OneTrust, LLC.
+Outbrain inc
+OpenX Limited
+Pinterest
+QualityUnit
+PhpBB3
+Pulse Insights, LLC
+Lightbend, Inc.
+qTranslate Plugin
+Queue-it
+NextRoll, Inc.
+Verizon Communications Inc.
+Sitecore A/S
+Adform
+Sitecore Holding II A/S
+Sleeknote Aps
+SalesLoft, Inc.
+SnapEngage, LLC.
+Fonecta Enterprise Solutions Oy
+Socitm Limited
+Squiz
+Talentsoft SA
+Squarespace, Inc.
+Survale
+Yandex
+Tealium
+Ensighten, Inc.
+Mobius Solutions, Ltd. (Optimove)
+TikTok Inc.
+HCL Technologies Limited
+Atom Insight
+vSpirits Technologies Ltd.
+DEFIANT INC.
+Digital Control Room Ltd
+Zendesk, Inc
+AIVO
+Intercom R&D Unlimited Company
+Lightstreamer Srl
+E-Space Communication AB
+Rakuten Marketing LLC
+GoDaddy Media Temple, Inc.
+Slashdot Media, LLC
+Hotjar Ltd.
+Heap, Inc.
+Snowplow
+Salesfire Ltd
+n/a
+The Rocket Science Group
+Chartbeat Inc.
+NHST Media Group
+Dentsu Aegis Network Group
+Dynamic Yield Ltd
+Enecto AB
+Meta Platforms, Inc.
+HYPERS
+Make Websolutions AS
+Peytz & Co
+PCCW Global Limited
+Parse.ly
+Matomo
+VMware, Inc
+Wingify Software Pvt Ltd.
+Visma
+Gemius SA
+Klaviyo, Inc.
+ShareThis Inc.
+SharpSpring, Inc.
+Bellmetric
+Warner Bros. Entertainment Inc
+Ströer Media Deutschland GmbH
+Aura Energi
+Bigpoint GmbH
+Diabetesforeningen
+Simplicity Marketing Ltd
+RhythmOne plc
+LinkedIn Corporation
+MediaMath Inc
+Miniclip SA
+Media Innovation Group, LLC
+IgnitionOne, Inc.
+Ofcom
+Omnicom Media Group
+The Post Office
+Saba Software Inc.
+Amazon Europe Core S.a.r.l.
+Smart AdServer Limited
+Steelhouse Inc
+Step Change
+FormAssembly Inc.
+UserVoice Inc.
+AcuityAds Inc.
+Zmags Inc.
+Box
+Adot
+IponWeb Limited.
+Swisscom AG
+Triple Lift, Inc.
+LiveChat, Inc.
+Acuity Ads Inc.
+Acxiom LLC
+Audigent
+ADARA, Inc.
+Adbrain Ltd.
+Addtoany.com
+AdTheorent, Inc.
+ADITION technologies AG
+Samsung Electronics (UK) Limited
+JSC Gazprom Media Holding
+ADman Interactive S.L.U.
+WideOrbit Inc.
+Admixer Limited
+Exponential Interactive, Inc.
+Avocet Systems Ltd
+CONVERGE-DIGITAL
+Koninklijke KPN N.V.
+Kiosked Ltd
+ZONER software a.s.
+Waydev, Inc.
+Perion Network Ltd.
+BidTheater AB
+Adservice A/S
+The Trade Desk
+Viant Technology LLC
+CoxReps
+ANTS
+Clerk.io ApS
+Issuu Inc.
+Apple Inc
+Nets
+Aralego
+Altinget
+Vizzuality
+Digitaliseringsstyrelsen
+Appier
+Cision US Inc.
+Casale Media Inc.
+Obvious Management Services, L.L.C
+Chart.dk
+MGID, Inc.
+Deloitte Touche Tohmatsu Limited
+Demandbase Inc.
+Screen9 AB
+Crimtan Group
+Central Business Register (Denmark)
+Dable Inc.
+Equinor ASA
+Danske Spil A/S
+Propel Media, Inc.
+Switch Concepts Ltd
+ReachMee AB
+Dailymotion Inc.
+Conversant LLC.
+e-Boks A/S
+Maru Group LLC
+Narratiive
+Scribble Technologies, Inc
+Wistia, Inc.
+Livesport Media Ltd.
+Cloud Technologies S.A.
+Thunderhead Limited
+SmartResponse A / S
+The Rubicon Project
+The Nielsen Company (US), LLC
+Aki Technologies, Inc
+Fifty Technology Ltd
+Free Online Games
+SAP SE
+Giphy, Inc.
+Affectv Ltd
+Sonobi, Inc.
+Hurra.com
+LiveIntent, Inc.
+Yieldbot, Inc.
+ID5 Technology Limited
+Salesforce
+Infectious Media Ltd.
+The Nielsen Group
+The Kantar Group Limited
+Cognesia Ltd
+Jobindex A/S
+MGH-KultuNaut ApS
+Outbrain Inc.
+Nexstar Digital LLC
+Zeta Interactive Corp.
+Livehouse ApS
+WebSpellChecker LLC
+loGo_net
+Stripe, Inc.
+VK
+Marin Software
+Plus500UK Ltd
+meba
+Beijing ShuZhi Technology Co.,Ltd.
+Dstillery, Inc.
+MediaWallah, LLC
+Bisnode
+Bombora, Inc.
+The Money and Pensions Service
+Morningstar, Inc.
+Mxptint
+SKcommunications
+Inuvo, Inc
+VOCAST ApS
+Viacom CBS
+Zolando SE
+Digital Advisor ApS
+Inmar Inc.
+Basechat
+Keywee Inc,
+AdUX
+Alibaba Group Holding Limited
+First Rate Exchange Services ltd
+Nativo, Inc.
+Prezi Inc.
+SharpSpring, Inc
+Eyeopta PTE LTD
+Quisma Ltd
+United
+Quora Inc.
+dotdigital EMEA Limited
+Zoho Corporation Pvt. Ltd
+RichRelevance, Inc.
+Relevad Corporation
+RevenueMantra Digital Media
+Right Action
+LiveRamp, Inc.
+Rocket Fuel Inc.
+Entireweb Sweden AB
+Full Circle Studies, Inc
+Sirdata SAS
+SendinBlue
+All Media Eesti AS
+Sharethrough Inc.
+Simplifi Holdings, Inc.
+Centro
+Skat
+SoundCloud
+RTL Group S.A.
+Enalyzer International
+Smartclip
+Indicia Danmark A/S
+Perfect Privacy, LLC
+Taboola
+1plusX AG
+Telenor ASA
+Teads SA
+Automobile Association
+TinyURL
+NHN Corporation
+TPMN co., ltd.
+Optimise Media Group Ltd
+LeadLander Inc.
+Tradedoubler AB
+33Across INC
+Typeform, S.L.
+Dalet S.A.
+Coveo Solutions, Inc.
+AudienceProject A/S
+Valtech A/S
+VideoTool v. NNTV ApS
+London & Partners Limited
+John Lewis Partnership
+Stackla Pty Ltd
+Stena AB Group
+ISP Digital, S.L.U
+IHS Markit Ltd.
+Teamgeek
+Splitrock Studio Pty Ltd
+Citizens Advice
+Check Point Travel
+VITEC Software Group AB
+Financial Ombudsman Service
+GOV.UK
+Kickstarter Inc.
+Kitbag Limited
+MasterCard Incorporated
+Parker Software Limited
+Mybanker.dk A/S
+National Debtline
+KMD
+World Council of Churches
+OK Mobil
+IQVIA Inc
+PayPal (Europe) S.à.r.l. et Cie
+Rejseplanen A/S
+Colourbox
+SMA Solar Technology AG
+Thomson Reuters
+We Do Nice Things
+Workable Technology Limited
+Salling Group A/S
+Yext
+IDEMIA France SAS
+Yieldlab GmbH
+Xandr
+SiteSpect Inc
+Guardian News and Media Ltd
+END
